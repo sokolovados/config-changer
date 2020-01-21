@@ -1,0 +1,64 @@
+create vlan 1 tag 1
+Command: create vlan 1 tag 1
+
+The vid you entered has existed.
+
+Fail!   
+
+DES-1228/ME:5create vlan 2 tag 2
+Command: create vlan 2 tag 2
+
+The VLAN name you entered has existed.
+
+Fail!   
+
+DES-1228/ME:5create vlan 3 tag 3
+Command: create vlan 3 tag 3
+
+The VLAN name you entered has existed.
+
+Fail!   
+
+DES-1228/ME:5create vlan 4 tag 4
+Command: create vlan 4 tag 4
+
+The VLAN name you entered has existed.
+
+Fail!   
+
+DES-1228/ME:5create vlan 5 tag 5
+Command: create vlan 5 tag 5
+
+The VLAN name you entered has existed.
+
+Fail!   
+
+DES-1228/ME:5create vlan 6 tag 6
+Command: create vlan 6 tag 6
+
+The VLAN name you entered has existed.
+
+Fail!   
+
+DES-1228/ME:5create vlan 7 tag 7
+Command: create vlan 7 tag 7
+
+The VLAN name you entered has existed.
+
+Fail!   
+
+DES-1228/ME:5create vlan 8 tag 8
+Command: create vlan 8 tag 8
+
+The VLAN name you entered has existed.
+
+Fail!   
+
+DES-1228/ME:5create vlan 9 tag 9
+Command: create vlan 9 tag 9
+
+The VLAN name you entered has existed.
+
+Fail!   
+
+DES-1228/ME:5
